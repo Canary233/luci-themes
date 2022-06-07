@@ -1,0 +1,3 @@
+[submodule "luci-theme-rosy"]
+	path = luci-theme-rosy
+	url = https://github.com/rosywrt/luci-theme-rosy.git
